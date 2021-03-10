@@ -20,3 +20,4 @@ secrets.auto.tfvars
 .vscode
 
 **/coverage/*
+examples/ubuntu-improved
